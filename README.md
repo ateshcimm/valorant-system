@@ -1,11 +1,13 @@
 # Valorant Hesap System
-Hepinize Merhaba Arkadaşlar Proje Geliştirmeye Açıktır İstediğiniz Gibi Geliştirip Kullanabilirsin
+Hepinize Merhaba Arkadaşlar Proje Geliştirmeye Açıktır İstediğiniz Gibi Geliştirip Kullanabilirsiniz
 
+
+# İzinsiz Paylaşılması Yasaktır
+
+5 Starda Paylaşırım
 
 
 Bot İçinde Mevcut Olanlar Nelerdir 
-
-
 
 
 <img width="585" height="397" alt="image" src="https://github.com/user-attachments/assets/0fd5df60-b651-4848-bb10-801e55b7ca8c" />
