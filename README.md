@@ -6,19 +6,18 @@ Hepinize Merhaba Arkadaşlar Proje Geliştirmeye Açıktır İstediğiniz Gibi G
 Bot İçinde Mevcut Olanlar Nelerdir 
 
 
-assets/
-│   └── maps/                 // Haritalar
-│       ├── ascent.jpg
-│       ├── bind.jpg
-│       ├── breeze.jpg
-│       ├── fracture.jpg
-│       ├── haven.jpg
-│       ├── icebox.jpg
-│       ├── lotus.jpg
-│       ├── pearl.jpg
-│       ├── split.jpg
-│       ├── sunset.jpg
-│       └── abyss.jpg
+maps/                 // Haritalar
+├── ascent.jpg
+├── bind.jpg
+├── breeze.jpg
+├── fracture.jpg
+├── haven.jpg
+├── icebox.jpg
+├── lotus.jpg
+├── pearl.jpg
+├── split.jpg
+├── sunset.jpg
+└── abyss.jpg
 
 
 
