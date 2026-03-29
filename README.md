@@ -6,7 +6,7 @@ Hepinize Merhaba Arkadaşlar Proje Geliştirmeye Açıktır İstediğiniz Gibi G
 Bot İçinde Mevcut Olanlar Nelerdir 
 
 
-maps/                 // Haritalar
+maps/
 ├── ascent.jpg
 ├── bind.jpg
 ├── breeze.jpg
