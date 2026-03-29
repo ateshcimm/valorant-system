@@ -19,6 +19,10 @@ assets/
 │       ├── split.jpg
 │       ├── sunset.jpg
 │       └── abyss.jpg
+
+
+
+
 ├── commands/                    // Komutlar
 │   ├── account.js
 │   ├── esports.js
